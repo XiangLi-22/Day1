@@ -1,0 +1,14 @@
+D:\C#\三子棋\三子棋\obj\Debug\三子棋.csproj.AssemblyReference.cache
+D:\C#\三子棋\三子棋\obj\Debug\三子棋.csproj.CoreCompileInputs.cache
+D:\C#\三子棋\三子棋\bin\Debug\三子棋.exe.config
+D:\C#\三子棋\三子棋\bin\Debug\三子棋.exe
+D:\C#\三子棋\三子棋\bin\Debug\三子棋.pdb
+D:\C#\三子棋\三子棋\obj\Debug\三子棋.exe
+D:\C#\三子棋\三子棋\obj\Debug\三子棋.pdb
+D:\机器视觉正式课\c#\拓展小练习\三子棋\三子棋\bin\Debug\三子棋.exe.config
+D:\机器视觉正式课\c#\拓展小练习\三子棋\三子棋\bin\Debug\三子棋.exe
+D:\机器视觉正式课\c#\拓展小练习\三子棋\三子棋\bin\Debug\三子棋.pdb
+D:\机器视觉正式课\c#\拓展小练习\三子棋\三子棋\obj\Debug\三子棋.csproj.AssemblyReference.cache
+D:\机器视觉正式课\c#\拓展小练习\三子棋\三子棋\obj\Debug\三子棋.csproj.CoreCompileInputs.cache
+D:\机器视觉正式课\c#\拓展小练习\三子棋\三子棋\obj\Debug\三子棋.exe
+D:\机器视觉正式课\c#\拓展小练习\三子棋\三子棋\obj\Debug\三子棋.pdb
